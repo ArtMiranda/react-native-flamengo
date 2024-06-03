@@ -37,7 +37,7 @@ export default function TabLayout() {
           options={{
             title: 'CRF',
             tabBarIcon: ({ color, focused }) => (
-              <TabBarIcon name={focused ? 'skull' : 'skull-outline'} color={color} />
+              <TabBarIcon name={focused ? 'football' : 'football-outline'} color={color} />
             ),
           }}
         />
